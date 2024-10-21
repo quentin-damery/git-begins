@@ -5,3 +5,5 @@ git add .
 git commit -m "Message du commit"
 
 git push origin <nom-de-la-branche>
+
+git pull origin <nom-de-la-branche>
